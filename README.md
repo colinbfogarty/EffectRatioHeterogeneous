@@ -15,10 +15,15 @@ and a second sensitivity analysis that accounts for effect modification. It uses
 Description of Simulated Data: ExampleData.csv
 
 Sample Size - 5000
+
 Z - Binary IV 
+
 D - Binary Treatment Variable
+
 Y - Outcome
+
 X.1 - X.10 - Baseline Covariates Drawn from Uniform Distributions.
+
 Pair - Matched Pair IDs
 
 ./rfunctions - all R functions used in the analysis
