@@ -2,12 +2,6 @@
 
 The follow code implements the methodology described in Fogarty et al. (2021+), ``Biased Encouragements and Heterogeneous Effects in an Instrumental Variable Study of Emergency General Surgical Outcomes." It further provides a simulated data set for illustrating the method
 
--IV_Sens_Match_ER.R -- In this script, we conduct the near-far match and save the matched data. We exactly matched on hospitals and sepsis status.
--Balance_Statistics.r -- In this script, we measured balance before and after the near-far match.
--IV_Sens_Outcome.R -- In this script, we estimate the ITT and IV estimates after matching. We save point estimates and confidence intervals.
--IV_Sens.R -- In this script, we conduct the sensitivity analyses that do not account for possible effect modification.
--IV_Sens_Eff_Mod.R -- In this script, we conduct the sensitivity analyses that account for possible effect modification.
-
 /Analysis - Example Data 
 
 -IV_Sens_Example.R -- In this script, we conduct a self-contained analysis based on simulated data. The simulated data has a matched pair structure.
