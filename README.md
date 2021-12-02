@@ -22,5 +22,4 @@ X.1 - X.10 - Baseline Covariates Drawn from Uniform Distributions.
 Pair - Matched Pair IDs
 
 ./rfunctions - all R functions used in the analysis
-./routput - Empty directory, we are unable to share analysis output
-./tables - R script which generates the tables in the paper.
+
